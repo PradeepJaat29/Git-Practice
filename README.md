@@ -7,7 +7,7 @@ Edit this file, create new ones, break things, and fix them again. That is the w
 ---
 
 ## Table of Contents
-
+ 
 - [Purpose](#purpose)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
