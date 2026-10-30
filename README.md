@@ -3,6 +3,7 @@
 This is a markdown file for practicing Git commands. Nothing here is production code. The repository exists so you can experiment, make mistakes, and build confidence with Git and GitHub in a safe place.
 
 Edit this file, create new ones, break things, and fix them again. That is the whole point.
+I'll also add whatever I learn to make it more usable.
 
 ---
 
